@@ -120,3 +120,5 @@ Licensed under the Apache License, Version 2.0. You may not use this file except
 <p align="center">
   <em>Build AI teams, not just Agents.</em>
 </p>
+
+This product serves solely as a workflow orchestration tool and does not embed any AI model capabilities. When users integrate AI models for specific business scenarios, they shall bear full responsibility for compliance obligations under the EU AI Act and other relevant regulatory frameworks.
